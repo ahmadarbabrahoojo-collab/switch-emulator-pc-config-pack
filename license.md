@@ -156,3 +156,6 @@ Bluetooth, not USB. Enable it per game in the input tab.
 ---
 
 *Switch Emulator for PC · Updated 2026-10-25 · Shared under the MIT License*
+
+
+Updated 2026-10-25.
